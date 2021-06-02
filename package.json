@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /parcel-deploy-tutorial/",
+    "build": "parcel build src/index.html --public-url /team-13-project/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/parcel-deploy-tutorial/issues"
   },
-  "homepage": "https://luxplanjay.github.io/parcel-deploy-tutorial",
+  "homepage": "https://IrynaSokolova-Quanandrya.github.io/team-13-project",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-nuke-dist": "^1.0.1"
